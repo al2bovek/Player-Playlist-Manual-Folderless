@@ -1,0 +1,19 @@
+* {
+    margin: 1rem;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 40%;
+    height: 20rem;
+   padding-left: 20%
+}
+.trackImg {
+    height: 3.33rem;
+    border-radius: 50%;
+}
+li {
+    display: flex;
+}
